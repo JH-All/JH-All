@@ -1,13 +1,13 @@
 ### Hey! 🐟
 
 
-- 🐡 I’m currently working on ecology of fishes
+- 🐡 I’m currently working on fish ecology
 - 🤓 I’m learning R language and looking to collaborate on nummerical ecology projects
 - 📫 How to reach me: joaobiomar@gmail.com
 <div align="center">
   <a href="https://github.com/JoaoAlliprandini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoAlliprandini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlliprandini&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoAlliprandini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlliprandini&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   ##

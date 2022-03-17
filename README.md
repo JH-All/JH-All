@@ -1,7 +1,7 @@
 ### Hey! 🐟
 
 
-- 🐡 I’m currently working with fish ecology
+- 🐡 I’m working with fish ecology
 - 🤓 I’m learning R language and looking to collaborate on nummerical ecology projects
 - 📫 How to reach me: joaobiomar@gmail.com
 <div align="center">

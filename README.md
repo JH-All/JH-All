@@ -1,12 +1,12 @@
 
 <h1 align="center">Hey 🐟, I'm João Henrique </h1>
-<h3 align="center">A PhD student from Brazil</h3>
+<h3 align="center">A marine biologist and PhD student from Brazil</h3>
 
 - 🐡 I’m currently working with **temporary pond fishes**
 
 - 🤓 I’m currently learning **habitat suitability models and bayesian data analysis for ecology**
 
-- 👯 I’m looking to collaborate on **community ecology projects**
+- 👯 I’m looking to collaborate on **numeric and community ecology projects**
 
 - 📫 How to reach me **jh.costa@unesp.br**
 

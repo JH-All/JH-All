@@ -2,7 +2,7 @@
 
 
 - 🐡 I’m working with fish ecology
-- 🤓 I’m learning R language and looking to collaborate on nummerical and community ecology projects
+- 🤓 Looking to collaborate on nummerical and community ecology projects
 - 📫 How to reach me: jh.costa@unesp.br
 
   <div>

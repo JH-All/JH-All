@@ -3,7 +3,7 @@
 
 <img align="right" src="https://i.pinimg.com/736x/70/31/13/70311342f0cad0d9b0b7de49d24771be.jpg" width="300">
 
-- 🐡 I’m currently working with **temporary pond fishes**
+- 🐡 I’m currently working with **fishes from temporary ponds**
 
 - 🤓 I’m currently learning **habitat suitability models and bayesian data analysis for ecology**
 

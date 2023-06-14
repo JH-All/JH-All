@@ -2,6 +2,8 @@
 <h1 align="center">Hey 🐟, I'm João Henrique </h1>
 <h3 align="center">A marine biologist and PhD student from Brazil</h3>
 
+<img align="right", alt="Working", width="400", src="https://media2.giphy.com/media/7eVp9MHlNI90c/200w.gif?cid=6c09b952vjjdhmbet0xrs5ks9zupd98n1ppgm32voyew1w5u&ep=v1_gifs_search&rid=200w.gif&ct=g">
+
 - 🐡 I’m currently working with **temporary pond fishes**
 
 - 🤓 I’m currently learning **habitat suitability models and bayesian data analysis for ecology**

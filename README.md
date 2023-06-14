@@ -1,6 +1,5 @@
-### Hey! 🐟
 
-<h1 align="center">Hi 👋, I'm JH-All</h1>
+<h1 align="center">Hey 🐟, I'm João Henrique </h1>
 <h3 align="center">A PhD student from Brazil</h3>
 
 - 🐡 I’m currently working with **temporary pond fishes**

@@ -18,9 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jh-all&show_icons=true&locale=en" alt="jh-all" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jh-all&" alt="jh-all" /></p>
-
-
   <div>
     <a href="https://instagram.com/eujoaocabelo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>

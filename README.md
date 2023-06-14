@@ -1,7 +1,7 @@
 <h1 align="center">Hey 🐟, I'm João Henrique </h1>
 <h3 align="center">A marine biologist and PhD student from Brazil</h3>
 
-<img align="right" src="[IMAGE_URL](https://i.pinimg.com/736x/70/31/13/70311342f0cad0d9b0b7de49d24771be.jpg)" width="300">
+<img align="right" src="https://i.pinimg.com/736x/70/31/13/70311342f0cad0d9b0b7de49d24771be.jpg" width="300">
 
 - 🐡 I’m currently working with **temporary pond fishes**
 

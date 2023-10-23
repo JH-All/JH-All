@@ -7,8 +7,6 @@
 
 - 🤓 I’m currently learning **habitat suitability models and bayesian data analysis for ecology**
 
-- 👯 I’m looking to collaborate on **numerical and community ecology projects**
-
 - 📫 How to reach me **jh.costa@unesp.br**
 
 <h3 align="left">Connect with me:</h3>
